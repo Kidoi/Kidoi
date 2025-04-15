@@ -1,5 +1,5 @@
 ## Yaqi Chen (Eria Chen)
-🧠 Neuroscience / EEG
+🧠 Neuroscience / Statistics / Computer Science / EEG
 
 <!--
 **Kidoi/Kidoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
